@@ -1,0 +1,65 @@
+ 1014  sudo apt-get install postgresql
+ 1015  sudo service postgresql stop
+ 1016  sudo apt-get install python-psycopg2
+ 1017  sudo -u postgres createuser katya
+ 1018  sudo -u postgres createuser janbodnar
+ 1019  sudo -u postgres createuser katya
+ 1020  sudo -u postgres createdb testdb -O katya
+ 1021  python
+ 1022  sudo install python-psycopg2
+ 1023  sudo apt-get install python-psycopg2
+ 1024  python
+ 1025  sudo apt-get build-dep python-psycopg2
+ 1026  pip install psycopg2 
+ 1027  sudo apt-get install python-pip
+ 1028  pip install psycopg2 
+ 1029  python
+ 1030  pip3 install psycopg2 
+ 1031  sudo python
+ 1032  sudo apt-get build-dep python-psycopg2
+ 1033  virtualenv --no-site-packages myenv
+ 1034  sudo apt-get install python-setuptools python-dev build-essential
+ 1035  sudo easy_install -U pip
+ 1036  sudo pip install -U virtualenv
+ 1037  sudo apt-get install python-psycopg2
+ 1038  virtualenv myenv
+ 1039  pip freeze -E myenv
+ 1040  python
+ 1041  cd Demo
+ 1042  cd Desktop
+ 1043  cd Demo
+ 1044  python/test.py
+ 1045  $ python test.py
+ 1046  python test.py
+ 1047  cd Desktop
+ 1048  cd Demo
+ 1049  python test.py
+ 1050  cd Desktop
+ 1051  cd Demo
+ 1052  python test.py
+ 1053  cd Desktop
+ 1054  cd Demo
+ 1055  python test.py
+ 1056  sudo service postgresql start
+ 1057  python test.py
+ 1058  sudo service postgresql start
+ 1059  python test.py
+ 1060  python
+ 1061  python test1.py
+ 1062  cd ..
+ 1063  sudo -u postgres createuser
+ 1064  sudo -u postgres createuser postgres
+ 1065  sudo -u postgres createuser katya
+ 1066  sudo -u postgres psql
+ 1067  sudo -u postgres createdb testdb
+ 1068  cd Desktop
+ 1069  cd Demo
+ 1070  python test1.py
+ 1071  python
+ 1072  python student.py
+ 1073  python fetch.py
+ 1074  python Book.py
+ 1075  python fetch.py
+ 1076  history
+katya@ubuntu:~$ 
+
